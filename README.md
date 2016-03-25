@@ -10,7 +10,7 @@ __CAUTION: This is just an experiment at this point. The API is highly likely to
 
 ## Installation
 
-You would need the development version of `htmlwidgets` and `reactiveWidgets`
+You would need the development version of `htmlwidgets` and `robservable`
 
 ```r
 devtools::install_github('ramnathv/htmlwidgets')
